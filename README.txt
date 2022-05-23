@@ -1,6 +1,5 @@
 Equation_Solver
 Authored by Adiel Rozenfeld
-208349019
 
 ==Description==
 
